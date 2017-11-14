@@ -1,3 +1,4 @@
 <?php
 echo "TEST PHP";
-ehco "123";
+echo "123";
+ehco "Bug o day";
